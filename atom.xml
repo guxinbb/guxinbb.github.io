@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>晚安博客</title>
+  
+  <subtitle>晚安</subtitle>
+  <link href="http://guxinbb.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://guxinbb.github.io/"/>
+  <updated>2022-03-27T10:53:31.567Z</updated>
+  <id>http://guxinbb.github.io/</id>
+  
+  <author>
+    <name>晚安</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>晚安 世界</title>
+    <link href="http://guxinbb.github.io/2022/03/2716107.html"/>
+    <id>http://guxinbb.github.io/2022/03/2716107.html</id>
+    <published>2022-03-26T18:53:06.045Z</published>
+    <updated>2022-03-27T10:53:31.567Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这就是我的一个初始博客界面，尚未开发。。&lt;/p&gt;
+&lt;h2 id=&quot;快速阅览&quot;&gt;&lt;a href=&quot;#快速阅览&quot; class=&quot;headerlink&quot; title=&quot;快速阅览&quot;&gt;&lt;/a&gt;快速阅览&lt;/h2&gt;&lt;h3 id=&quot;日常生活&quot;&gt;&lt;a href=&quot;#日常生活&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="故事" scheme="http://guxinbb.github.io/tags/%E6%95%85%E4%BA%8B/"/>
+    
+  </entry>
+  
+</feed>
