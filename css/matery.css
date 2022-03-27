@@ -550,10 +550,10 @@ header .go-back i {
 .post-cover {
     height: 40vh !important;
 }
-
+/**注释 取消背景蒙版**/
 .bg-cover:after {
-    -webkit-animation: rainbow 60s infinite;
-    animation: rainbow 60s infinite;
+   /* -webkit-animation: rainbow 60s infinite;
+    animation: rainbow 60s infinite;*/
 }
 
 .bg-cover:before,
